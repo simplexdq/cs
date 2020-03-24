@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: edu.northeastern.cs5200.TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 12.615 s <<< FAILURE! - in edu.northeastern.cs5200.TestSuite
+D_createCourse(edu.northeastern.cs5200.TestSuite)  Time elapsed: 1.061 s  <<< ERROR!
+java.lang.NullPointerException
+	at edu.northeastern.cs5200.TestSuite.D_createCourse(TestSuite.java:66)
+
+E_createSection(edu.northeastern.cs5200.TestSuite)  Time elapsed: 0.875 s  <<< ERROR!
+java.lang.NullPointerException
+	at edu.northeastern.cs5200.TestSuite.E_createSection(TestSuite.java:91)
+
+F_enrollStudentInSection(edu.northeastern.cs5200.TestSuite)  Time elapsed: 0.862 s  <<< ERROR!
+java.lang.NullPointerException
+	at edu.northeastern.cs5200.TestSuite.F_enrollStudentInSection(TestSuite.java:118)
+

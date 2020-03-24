@@ -1,0 +1,15 @@
+edu/northeastern/cs5200/models/Section.class
+edu/northeastern/cs5200/models/Person.class
+edu/northeastern/cs5200/models/Enrollment.class
+edu/northeastern/cs5200/models/Student.class
+edu/northeastern/cs5200/repositories/SectionRepository.class
+edu/northeastern/cs5200/models/Course.class
+edu/northeastern/cs5200/Cs5200Fall2020DongqixuJpa1Application.class
+edu/northeastern/cs5200/daos/UniversityDao.class
+edu/northeastern/cs5200/ServletInitializer.class
+edu/northeastern/cs5200/repositories/EnrollmentRepository.class
+edu/northeastern/cs5200/repositories/PersonRepository.class
+edu/northeastern/cs5200/repositories/FacultyRepository.class
+edu/northeastern/cs5200/repositories/StudentRepository.class
+edu/northeastern/cs5200/models/Faculty.class
+edu/northeastern/cs5200/repositories/CourseRepository.class
